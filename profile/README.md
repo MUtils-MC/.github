@@ -1,4 +1,4 @@
-![MUtilsBanner](./MUtils-Banner.png)
+![MUtilsBanner](../MUtils-Banner.png)
 <p align="center">MUtils - The home of your new Minecraft experience</p>
 
 # What is MUtils?
